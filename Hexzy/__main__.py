@@ -63,9 +63,9 @@ from Hexzy.modules.helper_funcs.misc import paginate_modules
 from Hexzy.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Hexzy Pro](https://telegra.ph/file/23c40c8b88da2370e9743.jpg)
+Hello there, I'm [RSR💋](https://https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg)
 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+I am Group Managing Bot and I will help in managing your group
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
@@ -74,23 +74,23 @@ buttons = [
     [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
         InlineKeyboardButton(
-            text=" 🦠 Update Channel ", url="https://t.me/Mafia_Update"
+            text=" 🦠 Update Channel ", url="https://t.me/mizolibrary"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="⛑ Help & Commands ❓", url="https://t.me/HexzyBot?start=help"
+            text="⛑ Help & Commands ❓", url="https://t.me/rsrofficialbot?start=help"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="🚑 Support Group", url="https://t.me/Gangofmafiateam"
+            text="🚑 Support Group", url="https://t.me/mp3andvideodownloader"
         ),
-        InlineKeyboardButton(text=" ⚡️ Developer ", url="https://t.me/Prabha_sha"),
+        InlineKeyboardButton(text=" ⚡️ Developer ", url="https://t.me/rsrmusic"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Hexzy to Your Group 🎨", url="t.me/HexzyBot?startgroup=true"
+            text="➕ Add Me to Your Group 🎨", url="t.me/rsrofficialbot?startgroup=true"
         ),
     ],
 ]
@@ -113,7 +113,7 @@ Hexzy_IMG = "https://telegra.ph/file/23c40c8b88da2370e9743.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them [Prabhasha](t.me/Prabha_sha) , [Inuka](t.me/InukaASiTH)"""
+Support them [RSR](t.me/rsrmusic) , [Channel](t.me/mizolibrary)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -373,10 +373,10 @@ def Hexzy_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by Infinity_Bots.* "
-            f"\n\n 🔥 Join [Mafia Updates](https://t.me/Mafia_Update) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by @rsrmusic.* "
+            f"\n\n 🔥 Join [Mizo Library](https://t.me/mizolibrary) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
-            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/473cc17913393959e0667.jpg)"
+            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://1.bp.blogspot.com/-Z3ESW08JfMI/YDKuBGt6XJI/AAAAAAAAAQ8/GpdpSwrEo8UxpAIc9E2K1ISIxRnrHSLoQCLcBGAsYHQ/s1008/PicsArt_09-14-06.20.21.png)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -412,7 +412,7 @@ def Hexzy_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Gang Of Mafia](https://t.me/GangOfMafiaTeam).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Mizo Library](https://t.me/mizolibrary).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
