@@ -73,9 +73,7 @@ I am Group Managing Bot and I will help in managing your group
 buttons = [
     [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
-        InlineKeyboardButton(
-            text=" 🦠 Update Channel ", url="https://t.me/mizolibrary"
-        ),
+        InlineKeyboardButton(text=" 🦠 Update Channel ", url="https://t.me/mizolibrary"),
     ],
     [
         InlineKeyboardButton(
