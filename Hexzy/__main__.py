@@ -107,7 +107,7 @@ HELP_STRINGS = f"""
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-Hexzy_IMG = "https://telegra.ph/file/23c40c8b88da2370e9743.jpg"
+RSR_IMG = "https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
