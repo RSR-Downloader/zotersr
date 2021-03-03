@@ -63,7 +63,7 @@ from Hexzy.modules.helper_funcs.misc import paginate_modules
 from Hexzy.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [RSR💋](https://https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg)
+Hello there, I'm [RSR💋](https://telegra.ph/file/167b06c04843d14271a93.jpg)
 
 I am Group Managing Bot and I will help in managing your group
 
@@ -107,7 +107,7 @@ HELP_STRINGS = f"""
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-RSR_IMG = "https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg"
+RSR_IMG = "https://telegra.ph/file/167b06c04843d14271a93.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
